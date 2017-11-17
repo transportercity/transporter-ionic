@@ -54,4 +54,4 @@ transporter.requestPermissions(success, error);
 ```
 
 ## Support
-For any query, please reach out to us at #care@transporter.city# or call #+91-9557932744#
+For any query, please reach out to us at `care@transporter.city` or call `+91-9557932744`
