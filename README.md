@@ -12,6 +12,7 @@ To use the plugin in a Cordova application, just use the `transporter` object.
 All methods are defined below.
 
 ```js
+var transporter = cordova.plugins.transporter;
 
 // method to test whether the plugin has installed successfully or not
 // Just pass any string and on calling this method you will get the alert
