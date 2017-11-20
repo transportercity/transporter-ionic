@@ -3,11 +3,5 @@ repositories {
 }
 
 dependencies {
-
-  compile 'com.google.android.gms:play-services-gcm:10.2.0'
-  compile 'com.google.android.gms:play-services-location:10.2.0'
-  compile 'com.google.android.gms:play-services-maps:10.2.0'
-  compile 'com.google.firebase:firebase-messaging:10.2.0'
   compile 'com.transporter.city:transporter-sdk:0.0.9'
-
 }
